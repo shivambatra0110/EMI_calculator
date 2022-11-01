@@ -16,10 +16,10 @@ EMI of a loan have three major factors on which it depends:
 
 So I have made a EMI Calculator which can answer some Problem Statement related to EMI, Loan Amount, tenure and Principal Amount Which are:-
 
-Question1.    Let’s calculate the Home Loan EMI now using Python code. Principal Amount X, Rate of interest Y, and Loan repayment tenure is Z years. Find the EMI to be paid?
+1.    Let’s calculate the Home Loan EMI now using Python code. Principal Amount X, Rate of interest Y, and Loan repayment tenure is Z years. Find the EMI to be paid?
  
-Question2.    If you cannot pay more than XXXX Amount as EMI, find the maximum amount of Loan you can take/afford for the period?
+2.    If you cannot pay more than XXXX Amount as EMI, find the maximum amount of Loan you can take/afford for the period?
 
-Question3.    what is the total interest paid by you year-wise (from the 1st year to the Zth year). Also, what is the total cumulative interest paid by you in Z years?
+3.    what is the total interest paid by you year-wise (from the 1st year to the Zth year). Also, what is the total cumulative interest paid by you in Z years?
  
-Question4.    In how many months would you have paid atleast 50% of the Principal amount.
+4.    In how many months would you have paid atleast 50% of the Principal amount.
