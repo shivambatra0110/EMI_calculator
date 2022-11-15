@@ -1,4 +1,4 @@
-# EMI_calculator
+# EMI_Calculator_Using_Python
 
 Discription 
 We all have come across the term EMI in everyday life.
@@ -14,7 +14,7 @@ EMI of a loan have three major factors on which it depends:
 2.    Interest Rate: It is a rate at which the interest is charged on the amount borrowed.
 3.    Tenure of the Loan: It is an agreed loan repayment time frame between the borrower and the lender.
 
-So I have made a EMI Calculator which can answer some Problem Statement related to EMI, Loan Amount, tenure and Principal Amount Which are:-
+So I have made a EMI Calculator using python which can answer some Problem Statement related to EMI, Loan Amount, tenure and Principal Amount Which are:-
 
 1.    Let’s calculate the Home Loan EMI now using Python code. Principal Amount X, Rate of interest Y, and Loan repayment tenure is Z years. Find the EMI to be paid?
  
